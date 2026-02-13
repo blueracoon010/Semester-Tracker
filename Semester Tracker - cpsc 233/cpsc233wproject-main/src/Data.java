@@ -1,9 +1,4 @@
-/** Name : Saira Fatima
- * Ucid : 30232060
- * Name : Warisha Zaman
- * Ucid:
- * Name : Dominic Afuba
- * Ucid: 30202347
+/** Authors: Saira Fatima, Warisha Zaman, Dominic Afuba
  * The follwing is the code for data class which stores the information given from the
  * menu class
  */
