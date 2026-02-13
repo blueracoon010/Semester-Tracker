@@ -1,9 +1,7 @@
-/** Name : Saira Fatima
- * Ucid : 30232060
- * Name : Warisha Zaman
- * Ucid:
- * Name : Dominic Afuba
- * Ucid: 30202347
+/** Authors: 
+* Saira Fatima
+ * Warisha Zaman
+ * Dominic Afuba
  *
  * We have created a semester tracker , which enables the user to add their classes, assignments, grades etc.
  * and allows them to track their progress and analyzes the data from what is being stored .
